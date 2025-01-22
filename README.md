@@ -25,7 +25,7 @@ Here are some of the projects you’ll find in this repository:
 
 ---
 
-## About Me
+<!-- ## About Me
 I’m a passionate web developer and UI/UX designer on a mission to create beautiful and functional digital experiences. This repository is a reflection of my dedication to learning and growing in the world of web development. Let’s connect and build something amazing together! 🚀
 
 ---
